@@ -25,3 +25,12 @@ file 11. a script that converts a number from base 2 to base 10: The number in b
 file 12. a script that prints all possible combinations of two letters, except oo: Letters are lower cases, from a to z, One combination per line, The output should be alpha ordered, starting with aa
 
 file 13.  a script that prints a number with two decimal places, followed by a new line: The number will be stored in the environment variable NUM.
+
+file 14. a script that converts a number from base 10 to base 16.
+
+file 15. a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+file 16. a script that prints every other line from the input, starting with the first line.
+
+file 17. a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
