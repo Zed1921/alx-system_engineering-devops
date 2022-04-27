@@ -1,0 +1,1 @@
+Fixes a wordpress site running on apache2
